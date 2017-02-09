@@ -1,5 +1,7 @@
 Referencing Project #2 from: https://github.com/DecodeMTL/vanilla-js-projects
 
+DETAILS:
+
 
 ## Project #2: Flickr API Photo Browser
 It's your turn now! Based on what you learned while doing the previous project, you will build a Flickr Photo Browser! Here's an example of what a super basic version of the browser will look. If you want to use this as part of your portfolio, you should definitely follow some of the improvements that we suggest ;)
