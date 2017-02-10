@@ -1,0 +1,15 @@
+/*ugly style*/
+
+#results {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    margin: 0.2em;
+    width: 150px;
+    height: 150px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

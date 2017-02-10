@@ -1,0 +1,4 @@
+1. Make it prettier with CSS
+2. Make it so that when mouse hovers over picture, picture enlarges a bit
+3. Instead of linking to each image, prevent the click and display a popup image with an X
+4. Infinite scroll! Using window.addEventListener('scroll'), try to figure out when the scrolling has reached the bottom of the page, and start loading the next page of results.
