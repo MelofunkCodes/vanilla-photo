@@ -12,4 +12,23 @@ img {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    flex-basis: 50%;
+}
+
+
+/* Medium and up screen sizes */
+
+@media only screen and (min-width: 641px) {
+    img {
+        flex-basis: 30%;
+    }
+}
+
+
+/* Large screen sizes */
+
+@media only screen and (min-width: 1025px) {
+    img {
+        flex-basis: 20%;
+    }
 }

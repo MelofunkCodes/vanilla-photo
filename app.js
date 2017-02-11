@@ -1,3 +1,4 @@
+(function(){
 var FLICKR_API_URL = 'https://api.flickr.com/services/rest/?method=flickr.photos.search&format=json&nojsoncallback=1&api_key=';
 var FLICKR_API_KEY = '9c0b191a1d8415714a70a2a3db4abdeb';
 
@@ -75,3 +76,4 @@ searchForm.addEventListener('submit', function(event) {
 
 
 });
+})();
