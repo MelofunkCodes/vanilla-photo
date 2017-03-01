@@ -1,5 +1,9 @@
 /*ugly style*/
 
+.search-form{
+    width: 100%;
+}
+
 #results {
     display: flex;
     flex-wrap: wrap;
@@ -20,8 +24,17 @@ img {
 
 @media only screen and (min-width: 641px) {
     img {
-        flex-basis: 30%;
+        flex-basis: 30%; /*This is not working. No matter the number I put, it's not affecting photo size*/
     }
+/*    h1 {
+        font-size: 48px;
+    }
+    .search-input{
+        font-size: 32px;
+    }
+    .get-photos-button{
+        font-size: 32px;
+    }*/
 }
 
 
