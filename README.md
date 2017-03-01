@@ -1,5 +1,7 @@
 Referencing Project #2 from: https://github.com/DecodeMTL/vanilla-js-projects
 
+Demo available at https://melofunkcodes.github.io/vanilla-photo/
+
 DETAILS:
 
 
